@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>fire.27.png</filename>
+	<path>/home/luismi/yolov5/yolov5/labelImg/train_data/images/train/fire.27.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>730</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>1</ymin>
+			<xmax>677</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>
